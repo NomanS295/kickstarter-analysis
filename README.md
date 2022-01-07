@@ -5,7 +5,7 @@ Performing analysis on kickstarter data to uncover trends
 
 1. Help the client named Louise with her data and import data into tables for analysis  
 2. Create Pivot tables and pivot charts
-3. Excercise Excel prowress
+3.	Excercise Excel prowess
 4. Visualize campaign outcomes based on their launch dates and their funding goals 
 5. Use multiple kinds of excel functions such as COUNTIFS() , SUM() , YEAR()
 6. Interpret common Excel visualizations. 
@@ -21,19 +21,23 @@ Performing analysis on kickstarter data to uncover trends
 
 
 #### Analysis of Outcomes Based on Goals
- The live outcomes were filtered again due to it being a very small number. Louise's main focus is to get information about the plays subcatagory so the graph is filtered and shows only the plays subcatagory. All the number of outcomes are in percentages.
+ The live outcomes were filtered again due to it being a very small number. Louise's main focus is to get information about the plays subcategory so the graph is filtered and shows only the plays subcategory. All the number of outcomes are in percentages.
  
 ![Screenshot_2](https://user-images.githubusercontent.com/96362530/148516124-aa01aca9-01a2-4cd7-b82b-d8041977ffdc.png)
 
 ## Results
 ### Conclusions drawn from the graph of the Theater Outcomes by Launch Date
- The conclusions that can be drawn from the first graph(Outcomes Based on Launch Date) are that the best months for the theater project are may and june and people start losing interest through the end of the year. another conclusion that can be drawn is that there are not many cancelled shows throughout the year.
+ The conclusions that can be drawn from the first graph(Outcomes Based on Launch Date) are that the best months for the theater project are May and June and people start losing interest through the end of the year. another conclusion that can be drawn is that there are not many cancelled shows throughout the year.
 ### Conclusions that can be drawn from the Outcomes Based on Goals
   There are multiple conclusions that can be drawn from the Outcomes Based on Goals. One of the main conclusions that could be taken away from this graph is that none of the shows were cancelled and they were all either successful or failed. Another conclusion that we could take from this graph is that the best percentage of outcomes are projects that have goals that are less than $5000 or are between $35000 and $45000
 
-## Dataset limitations and other possible tables and/or graphs that we could be created
+## Dataset limitations 
 
- There were not many limitations in this data aside from the lack of information on cancelled projects and plays throughout the graphs. There are other ways that these graphs could be created and that is using pivot table and pivot charts. There are different filters and rows/columns that can be added using pivot tables and basic tables and charts do not have those options and that can lead to limitations of the data.  
+ The data limitation in the first graph is that the cancelled outcomes are filtered out due to it being a small number. The only two outcomes that were counted were the successful, live and failed ones. 
+ 
+ ## Other tables and graphs that could be created
+ There could be a new table that could count the number of months and days between the launch and deadline dates along with the amount of outcomes and be turned into a line graph. Another table/graph that could be created is a pivot table for the outcomes based on goal graph. A Pivot table for this graph would give more options to filter from and let us understand the data more thoroughly and help us make a line graph with more data to choose from.
+ 
  
 
  
