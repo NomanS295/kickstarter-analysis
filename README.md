@@ -30,6 +30,9 @@ Performing analysis on kickstarter data to uncover trends
  The conclusions that can be drawn from the first graph(Outcomes Based on Launch Date) are that the best months for the theater project are May and June and people start losing interest through the end of the year. another conclusion that can be drawn is that there are not many cancelled shows throughout the year.
 ### Conclusions that can be drawn from the Outcomes Based on Goals
   There are multiple conclusions that can be drawn from the Outcomes Based on Goals. One of the main conclusions that could be taken away from this graph is that none of the shows were cancelled and they were all either successful or failed. Another conclusion that we could take from this graph is that the best percentage of outcomes are projects that have goals that are less than $5000 or are between $35000 and $45000
+  ## Challenges faced 
+  There were not many challenges that were made during this analysis except one where there was trouble making the table for the analysis of outcomes based on goals. The "COUNTIF()" function was difficult to use but aside from this issue there were no other challenges that were faced in the making of this analysis.
+  
 
 ## Dataset limitations 
 
